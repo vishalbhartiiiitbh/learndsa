@@ -1,0 +1,1 @@
+{"name":"Local: vectorstl","url":"/home/vishal/dsa/STL/vectorstl.cpp","tests":[{"id":1789226025115,"input":"","output":"1231234\n20 20 1 2 3 132520"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vishal/dsa/STL/vectorstl.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: mapstl","url":"/home/vishal/dsa/STL/mapstl.cpp","tests":[{"id":1789375072193,"input":"","output":"1 vishal\n2 kumar\n3 singh\n1 vishal\n2 kumar\n3 singh\n2 kumar"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vishal/dsa/STL/mapstl.cpp","group":"local","local":true}

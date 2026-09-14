@@ -1,0 +1,1 @@
+{"name":"Local: multisetstl","url":"/home/vishal/dsa/STL/multisetstl.cpp","tests":[{"id":1789370572628,"input":"","output":"found\n5\n2 2 2 2 2 5size\n2 2 2 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vishal/dsa/STL/multisetstl.cpp","group":"local","local":true}
