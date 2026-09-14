@@ -1,0 +1,1 @@
+{"name":"Local: palindrome","url":"/home/vishal/dsa/basicmaths/palindrome.cpp","tests":[{"id":1789383379506,"input":"121","output":"true"},{"id":1789383383956,"input":"-121","output":"false"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/vishal/dsa/basicmaths/palindrome.cpp","group":"local","local":true}
